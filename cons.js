@@ -1,10 +1,11 @@
-var name = "Zhanerke";
-var surname = "Omiralikyzy";
-var birthday = " 04.10.2007";
-var otan = " Kazakhstan";
+var modelName = "Matiz";
+var color = "green";
+var wheelsCount = 4;
+var isOffRoad = "False";
+var rating = "tomen";
 
-console.log("Menin atym", name);
-console.log("Menin tegim",surname);
-console.log("Menin tugan kunim", birthday);
-console.log("Menin otanym",otan);
-
+console.log(modelName);
+console.log(color);
+console.log(wheelsCount);
+console.log(isOffRoad);
+console.log(rating);
