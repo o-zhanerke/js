@@ -1,11 +1,13 @@
-var modelName = "Matiz";
-var color = "green";
-var wheelsCount = 4;
-var isOffRoad = "False";
-var rating = "tomen";
+var slicesPerPizza = 8;
+var numberOfPizzas = 5;
+var totalSlices = slicesPerPizza * numberOfPizzas;
+console.log("task 1",totalSlices);
 
-console.log(modelName);
-console.log(color);
-console.log(wheelsCount);
-console.log(isOffRoad);
-console.log(rating);
+var totalChocolates = 24;
+var numberOfFriends = 6;
+var chocolatesPerFriend = totalChocolates / numberOfFriends;
+console.log("task 2",chocolatesPerFriend);
+
+var plantHeight = 10;
+plantHeight +=2
+console.log("task 3",plantHeight)
